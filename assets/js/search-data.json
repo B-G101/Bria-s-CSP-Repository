@@ -13,10 +13,10 @@
   
     
         ,"post1": {
-            "title": "Title",
-            "content": "# &quot;New Notebook&quot; &gt; &quot;Please work!!!&quot; - toc:true- branch: master - badges: true - comments: true - author: Hamel Husain &amp; Jeremy Howard - categories: [fastpages, jupyter] . Welcome to my notebook . Below there is some python . print(&quot;Hello&quot;) .",
-            "url": "https://b-g101.github.io/Bria-s-CSP-Repository/2022/07/29/first-notebook.html",
-            "relUrl": "/2022/07/29/first-notebook.html",
+            "title": "New Notebook",
+            "content": "Welcome to my notebook . Below there is some python . print(&quot;Hello&quot;) .",
+            "url": "https://b-g101.github.io/Bria-s-CSP-Repository/fastpages/jupyter/2022/07/29/first-notebook.html",
+            "relUrl": "/fastpages/jupyter/2022/07/29/first-notebook.html",
             "date": " • Jul 29, 2022"
         }
         
