@@ -2,11 +2,11 @@
   
     
         "post0": {
-            "title": "New page",
-            "content": "Yay! New Post! .",
-            "url": "https://b-g101.github.io/Bria-s-CSP-Repository/markdown/2022/07/27/test-markdown-post.html",
-            "relUrl": "/markdown/2022/07/27/test-markdown-post.html",
-            "date": " • Jul 27, 2022"
+            "title": "FIRST POST",
+            "content": "Welcome to my new page . This is the first post on my page. So exciting! I am going to make a list. Ready set go! . Here is my list of favorite colors . Blue | Black | Green | Purple | . Ok that’s the end of the list! . Now let’s add some code. (Yay!!) . print(&quot;this is code&quot;) variable = &quot;i love code&quot; print(variable) . Time to add a table . Header Header Header . Interesting information | More interesting info | Final interesting info | . . This is the end of this post!! . Thanks for reading!! . Enjoy this smiley face! Goodbye .",
+            "url": "https://b-g101.github.io/Bria-s-CSP-Repository/markdown/2022/07/29/test-markdown-2.html",
+            "relUrl": "/markdown/2022/07/29/test-markdown-2.html",
+            "date": " • Jul 29, 2022"
         }
         
     
